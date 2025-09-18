@@ -5,7 +5,7 @@ I'm a Python developer passionate about building personal tools and practical sc
 Currently exploring new technologies and sharpening my skills through hands-on projects.
 </p>
 
----
+<h1></h1>
 
 ### 🧠 About Me
 
@@ -14,7 +14,7 @@ Currently exploring new technologies and sharpening my skills through hands-on p
 - 📦 Most of the projects I upload here are personal experiments or utilities I use myself  
 - 🚀 Always learning, always building
 
----
+<h1></h1>
 
 ### ⚒️ Tools I Use
 
@@ -22,7 +22,7 @@ Currently exploring new technologies and sharpening my skills through hands-on p
   <img src="https://skillicons.dev/icons?i=vscode,py,windows" alt="Skill Icons" />
 </p>
 
----
+<h1></h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/1995parham/1995parham/refs/heads/main/bernard.gif" alt="Coding Animation" width="400"/>
 </p>
