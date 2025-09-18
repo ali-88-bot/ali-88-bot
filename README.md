@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ali Nedaiy 👋</h1>
 
-<!--
-**ali-88-bot/ali-88-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm a Python developer passionate about building personal tools and practical scripts.  
+Currently exploring new technologies and sharpening my skills through hands-on projects.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🐍 Python enthusiast focused on automation and utility-based development  
+- 🛠️ I enjoy creating small tools that solve everyday problems  
+- 📦 Most of the projects I upload here are personal experiments or utilities I use myself  
+- 🚀 Always learning, always building
+
+---
+
+### ⚒️ Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,py,windows" alt="Skill Icons" />
+</p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1995parham/1995parham/refs/heads/main/bernard.gif" alt="Coding Animation" width="400"/>
+</p>
+
+
+> Thanks for stopping by! Feel free to explore my repositories — more coming soon as I continue my coding journey.
