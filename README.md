@@ -19,7 +19,7 @@ Currently exploring new technologies and sharpening my skills through hands-on p
 ### ⚒️ Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,py,windows" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=vscode,py,windows,html,css,php" alt="Skill Icons" />
 </p>
 
 <h1></h1>
